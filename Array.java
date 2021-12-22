@@ -58,9 +58,9 @@ public class Array{
     public static void main(String[] args) {
          String[] fruit = { "apple","banana","lime", "orange","persimon"};
        
-        System.out.println("This is for loop:" );
-        for(string fruit: fruit){
-        System.out.println(fruit);    
+        System.out.println("Hello World:");
+          
         }
     }
 }
+
