@@ -56,11 +56,11 @@
 public class Array{
             
     public static void main(String[] args) {
-         String[] fruits = { "apple","banana","lime", "orange","persimon"};
+         String[] fruit = { "apple","banana","lime", "orange","persimon"};
        
-        System.out.println("Using for loop:" );
-        for(string fruit: fruits){
-        System.out.println(fruits);    
+        System.out.println("This is for loop:" );
+        for(string fruit: fruit){
+        System.out.println(fruit);    
         }
     }
 }
